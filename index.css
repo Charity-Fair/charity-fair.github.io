@@ -5,7 +5,7 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #303030;
+  background-color: #827c7c;
 }
 
 .topnav a {
@@ -23,13 +23,13 @@ body {
 }
 
 .topnav a.active {
-  background-color: #00b8ff;
+  background-color: #014f7f;
   color: white;
 }
 
 .icon {
-  height: 48px;
-  width: 48px;
+  height: 64px;
+  width: 285px;
   position: absolute;
   top: 5px;
   left: 5px;
